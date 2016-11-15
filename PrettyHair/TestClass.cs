@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrettyHair
 {
-    class Program
+    class TestClass
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
